@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 
 <h1 align="center">
-<img align="center" src="https://user-images.githubusercontent.com/75658978/110006293-77b9a980-7d3f-11eb-86d1-1a500c64eb6c" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+<img align="center" src="https://user-images.githubusercontent.com/75658978/110006293-77b9a980-7d3f-11eb-86d1-1a500c64eb6c.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
 
 </h1>
 _________________________________________________________________________________________________________________
